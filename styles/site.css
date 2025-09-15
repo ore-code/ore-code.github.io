@@ -129,7 +129,6 @@ h4,
 h5 {
 	font-family: "Roboto Condensed", Arial, sans-serif;
 	font-weight: bold;
-	color: #fff;
 }
 
 /*
@@ -140,7 +139,7 @@ h2 {
 	margin-bottom: 1rem;
 	padding: 1rem;
 	color: #fff;
-	background-color: #1b1b1b;
+	background-color: #222;
 }
 
 @media (min-width: 768px) {
